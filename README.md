@@ -1,3 +1,3 @@
 My Website
 
-Click here [here](Hehe.md)
+Click here [here](pages/Hehe.md)
